@@ -60,13 +60,13 @@ Tiny checkers used to confirm, explore, or narrow the search.
 - [Euler 009 — Reducing the triplet search to one parameter](./euler-001-to-100/009-special-pythagorean-triplet.html)
 
 > [!TIP]
-> Over time, this section can become your “best of” shelf.
+> Use these notes as high yield concept boosters.
 
 ---
 
 ## Learning Style
 
-My usual solve loop looks like this:
+My typical solve loop looks like this:
 
 ```mermaid
 flowchart LR
