@@ -10,8 +10,8 @@ A public notebook of mathematical and algorithmic problem solving.
 This site focuses on how ideas are found: brute force, pattern spotting, conjectures, proofs, and compact code checks.
 
 > [!NOTE]
-> Polished notes live here.  
-> Detailed raw solve logs, dead ends, and full research notes are kept private.
+> Polished notes shall be displayed here.
+> Detailed raw solve logs, dead ends, and full research notes are kept private. Contact admin for access
 
 ---
 
